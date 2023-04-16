@@ -1,5 +1,5 @@
-Favorite color: t
-Favorite food: t
-Favorite musician/band: s
-Favorite movie: rt
+Favorite color: blue
+Favorite food: pizza
+Favorite musician/band: mr boombastic
+Favorite movie: lord of the rings 4
 Requested grade in the course: 99
